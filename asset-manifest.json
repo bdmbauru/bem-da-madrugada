@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bem-da-madrugada/static/css/main.126c14d6.chunk.css",
+    "main.js": "/bem-da-madrugada/static/js/main.2beab45b.chunk.js",
+    "main.js.map": "/bem-da-madrugada/static/js/main.2beab45b.chunk.js.map",
+    "runtime-main.js": "/bem-da-madrugada/static/js/runtime-main.bcee9490.js",
+    "runtime-main.js.map": "/bem-da-madrugada/static/js/runtime-main.bcee9490.js.map",
+    "static/js/2.08418748.chunk.js": "/bem-da-madrugada/static/js/2.08418748.chunk.js",
+    "static/js/2.08418748.chunk.js.map": "/bem-da-madrugada/static/js/2.08418748.chunk.js.map",
+    "index.html": "/bem-da-madrugada/index.html",
+    "precache-manifest.7942a6dcbe6de621d5a6109366ce941f.js": "/bem-da-madrugada/precache-manifest.7942a6dcbe6de621d5a6109366ce941f.js",
+    "service-worker.js": "/bem-da-madrugada/service-worker.js",
+    "static/css/main.126c14d6.chunk.css.map": "/bem-da-madrugada/static/css/main.126c14d6.chunk.css.map",
+    "static/js/2.08418748.chunk.js.LICENSE.txt": "/bem-da-madrugada/static/js/2.08418748.chunk.js.LICENSE.txt",
+    "static/media/bdm2.jpg": "/bem-da-madrugada/static/media/bdm2.519b0684.jpg",
+    "static/media/bdm5.jpg": "/bem-da-madrugada/static/media/bdm5.57b5f2c5.jpg",
+    "static/media/bdm7.jpg": "/bem-da-madrugada/static/media/bdm7.1ff8f263.jpg",
+    "static/media/bdm_desktop.jpg": "/bem-da-madrugada/static/media/bdm_desktop.5476efd1.jpg",
+    "static/media/bdm_mobile.jpg": "/bem-da-madrugada/static/media/bdm_mobile.56f8e94e.jpg",
+    "static/media/inicio.png": "/bem-da-madrugada/static/media/inicio.768e68af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcee9490.js",
+    "static/js/2.08418748.chunk.js",
+    "static/css/main.126c14d6.chunk.css",
+    "static/js/main.2beab45b.chunk.js"
+  ]
+}

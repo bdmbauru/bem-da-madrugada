@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bem-da-madrugada/precache-manifest.2bcb67c639bee419592ac7303faecd97.js"
+  "/bem-da-madrugada/precache-manifest.aa3c25030e77cee60976251a0fbd9e06.js"
 );
 
 self.addEventListener('message', (event) => {

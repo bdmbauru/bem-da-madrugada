@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc7a1952c1b0c433e1bb08dd5d4b26b5",
+    "revision": "c296bad200436dad27b9160502443209",
     "url": "/bem-da-madrugada/index.html"
   },
   {
